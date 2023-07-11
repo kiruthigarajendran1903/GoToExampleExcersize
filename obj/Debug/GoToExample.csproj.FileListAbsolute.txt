@@ -1,0 +1,8 @@
+D:\GoToExample\GoToExample\bin\Debug\GoToExample.exe.config
+D:\GoToExample\GoToExample\bin\Debug\GoToExample.exe
+D:\GoToExample\GoToExample\bin\Debug\GoToExample.pdb
+D:\GoToExample\GoToExample\obj\Debug\GoToExample.csproj.AssemblyReference.cache
+D:\GoToExample\GoToExample\obj\Debug\GoToExample.csproj.SuggestedBindingRedirects.cache
+D:\GoToExample\GoToExample\obj\Debug\GoToExample.csproj.CoreCompileInputs.cache
+D:\GoToExample\GoToExample\obj\Debug\GoToExample.exe
+D:\GoToExample\GoToExample\obj\Debug\GoToExample.pdb
